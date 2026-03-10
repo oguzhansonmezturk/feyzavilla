@@ -1,0 +1,133 @@
+{
+    "nav": {
+        "about": "Über Uns",
+        "amenities": "Ausstattung",
+        "gallery": "Galerie",
+        "reviews": "Bewertungen",
+        "contact": "Kontakt",
+        "book": "Buchung"
+    },
+    "hero": {
+        "title": "Feyza Villa",
+        "tagline": "Ein luxuriöser Rückzugsort im Herzen von Rize",
+        "scroll": "NACH UNTEN SCROLLEN",
+        "explore": "ENTDECKEN"
+    },
+    "about": {
+        "label": "Feyza Villa",
+        "title": "Ein einzigartiges Erlebnis in der Natur",
+        "text": "Willkommen in der Feyza Villa, wo Luxus und Komfort in der einzigartigen Natur des Schwarzen Meeres aufeinandertreffen. Mit ihrem privaten beheizten Pool und dem herrlichen Blick stehen wir Ihnen das ganze Jahr über zur Verfügung, um unvergessliche Erinnerungen mit Ihren Lieben zu schaffen.",
+        "guests": "Max 4 Gäste",
+        "bedrooms": "2 Schlafzimmer",
+        "bathrooms": "1 Badezimmer",
+        "living": "1 Wohnzimmer & Küche"
+    },
+    "amenities": {
+        "label": "Ausstattung",
+        "title": "Was wir bieten",
+        "pool": "Beheizter Pool",
+        "pool_desc": "Privater beheizter Pool 365 Tage im Jahr verfügbar.",
+        "view": "Naturblick",
+        "view_desc": "Panoramablick auf die einzigartigen grünen Täler des Schwarzen Meeres.",
+        "garden": "Privater Garten",
+        "garden_desc": "Ein völlig privater Gartenbereich inmitten der Natur.",
+        "wifi": "High-Speed WiFi",
+        "wifi_desc": "Ununterbrochene Internetverbindung.",
+        "bbq": "Grillbereich",
+        "bbq_desc": "Grillgenuss im Freien in der Natur.",
+        "bed": "Kingsize-Bett",
+        "bed_desc": "Bequemer Schlaf mit Premium-Matratze und Bettwäsche.",
+        "kitchen": "Voll ausgestattete Küche",
+        "kitchen_desc": "Moderne Küche, ausgestattet mit allem, was Sie brauchen.",
+        "parking": "Privatparkplatz",
+        "parking_desc": "Sicherer privater Parkplatz für Ihr Fahrzeug."
+    },
+    "gallery": {
+        "label": "Galerie",
+        "title": "Entdecken Sie die Villa",
+        "all": "Alle",
+        "pool": "Pool & Außenbereich",
+        "room": "Wohnzimmer & Küche",
+        "bed": "Schlafzimmer",
+        "bath": "Badezimmer",
+        "enlarge": "VERGRÖSSERN"
+    },
+    "booking": {
+        "label": "Buchung",
+        "title": "Wählen Sie Ihre Termine",
+        "subtitle": "Erstellen Sie Ihre Buchungsanfrage, indem Sie Ihre Check-in- und Check-out-Daten aus dem Kalender auswählen.",
+        "summary": "Buchungsübersicht",
+        "checkin": "Check-in",
+        "checkout": "Check-out",
+        "nights": "Nächte",
+        "name_ph": "Vollständiger Name",
+        "phone_ph": "Handynummer",
+        "email_ph": "E-Mail-Adresse",
+        "message_ph": "Nachricht (optional)",
+        "submit": "Buchungsanfrage senden",
+        "whatsapp": "Kontakt über WhatsApp",
+        "min_nights": "Mindestaufenthalt beträgt 2 Nächte.",
+        "wa_intro": "Hallo, ich habe eine Buchungsanfrage für Feyza Villa.",
+        "wa_checkin": "Check-in:",
+        "wa_checkout": "Check-out:",
+        "wa_nights": "Nächte:",
+        "wa_name": "Name:",
+        "wa_phone": "Telefon:",
+        "wa_email": "E-Mail:",
+        "wa_message": "Nachricht:",
+        "unspecified": "Nicht angegeben"
+    },
+    "location": {
+        "label": "Standort",
+        "title": "Feyza Villa, Rize",
+        "text": "In einem der schönsten Täler des Schwarzen Meeres, im Herzen der Natur gelegen, ist unsere Villa ein idealer Ort für diejenigen, die sowohl Ruhe als auch Abenteuer suchen.",
+        "airport": "Nächster Flughafen",
+        "hours": "Stunden",
+        "nature": "Naturaktivitäten",
+        "nature_desc": "Trekking, Hochland-Touren, Rafting",
+        "culture": "Lokale Kultur",
+        "culture_desc": "Teegärten, lokale Küche",
+        "airport_desc": "Rize-Artvin - 15 Min | Trabzon - 1.5 Std"
+    },
+    "contact": {
+        "label": "Kontakt",
+        "title": "Nehmen Sie Kontakt auf",
+        "phone": "Telefon",
+        "email": "E-Mail"
+    },
+    "reviews": {
+        "label": "Bewertungen",
+        "title": "Gästebewertungen",
+        "source": "Bewertungen",
+        "items": {},
+        "item1": {
+            "date": "Google · Vor 2 Wochen",
+            "text": "Ein einzigartiger Ort für diejenigen, die einen friedlichen Urlaub in der Natur suchen! Das Hotel liegt am Bach in einer ruhigen Umgebung und war wirklich entspannend. Wir genossen den Blick auf die Natur zusammen mit dem Pool im Garten. Es war wunderbar, mit dem beruhigenden Rauschen des Baches aufzuwachen und den Tag allein mit der Natur zu verbringen. Die Villa war sehr sauber und komfortabel, an alles war gedacht. Wir hatten als Familie eine angenehme Zeit. Vielen Dank."
+        },
+        "item2": {
+            "date": "Google · Vor 1 Monat",
+            "text": "Wir sind heute angekommen, dieser Ort ist wirklich wunderbar. Ich kann es jedem nur empfehlen. Die Besitzer sind sehr freundlich. Wir werden 3 Tage hier bleiben und dies wird der einzige Ort sein, an den wir jedes Jahr kommen. Sie können diesen Ort ohne nachzudenken wählen, Sie werden es nicht bereuen. Danke Familie Feyza Villa."
+        },
+        "item3": {
+            "date": "Google · Vor 2 Monaten",
+            "text": "Eine wunderbare Umgebung, das Personal war sehr hilfsbereit. Es war makellos und sehr komfortabel, an alles war gedacht. Alles, was wir tun mussten, war Spaß zu haben. Ich werde auf jeden Fall wiederkommen, wenn ich Rize besuche. Ich empfehle es, definitiv ein ruhiger Ort, an dem man bleiben sollte."
+        },
+        "item4": {
+            "date": "Google · Vor 3 Monaten",
+            "text": "Die Lage ist perfekt, die Villa ist perfekt, alles was man braucht ist mehr als vorhanden. Die Besitzer der Villa sind lächelnde und warmherzige Menschen. Es gibt ein zuverlässiges Umfeld. Es ist auch nur wenige Minuten vom Zentrum entfernt. Sie können ohne nachzudenken bleiben."
+        },
+        "item5": {
+            "date": "Google · Vor 4 Monaten",
+            "text": "Ein erstaunlicher Ort in Rize in einem Wort. Ich war mit meiner Familie dort, der große Garten war eine tolle soziale Aktivität für die Kinder. Ich gratuliere ihnen, sie haben gute Arbeit geleistet."
+        },
+        "item6": {
+            "date": "Google · Vor 5 Monaten",
+            "text": "Die Lage ist perfekt. In der Natur, ein Bach davor, ein wahres Naturwunder. Der Pool ist auf eine andere Art wunderschön. Ein sehr geeigneter Ort für eine Familie. Ich empfehle es absolut, alles ist perfekt."
+        },
+        "subtitle": "Was unsere Gäste sagen",
+        "recommends": "Empfiehlt"
+    },
+    "footer": {
+        "rights": "Alle Rechte vorbehalten."
+    }
+}

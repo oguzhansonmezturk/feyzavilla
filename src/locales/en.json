@@ -1,0 +1,133 @@
+{
+    "nav": {
+        "about": "About Us",
+        "amenities": "Amenities",
+        "gallery": "Gallery",
+        "reviews": "Reviews",
+        "contact": "Contact",
+        "book": "Booking"
+    },
+    "hero": {
+        "title": "Feyza Villa",
+        "tagline": "A Luxury Escape in the Heart of Rize",
+        "scroll": "SCROLL DOWN",
+        "explore": "EXPLORE"
+    },
+    "about": {
+        "label": "Feyza Villa",
+        "title": "A Unique Experience in Nature",
+        "text": "Welcome to Feyza Villa, where luxury and comfort meet in the unique nature of the Black Sea. With its private heated pool and magnificent view, we are at your service all year round to create unforgettable memories with your loved ones.",
+        "guests": "Max 4 Guests",
+        "bedrooms": "2 Bedrooms",
+        "bathrooms": "1 Bathroom",
+        "living": "1 Living Room & Kitchen"
+    },
+    "amenities": {
+        "label": "Amenities",
+        "title": "What We Offer",
+        "pool": "Heated Pool",
+        "pool_desc": "Private heated pool available 365 days a year.",
+        "view": "Nature View",
+        "view_desc": "Panoramic view of the unique green valleys of the Black Sea.",
+        "garden": "Private Garden",
+        "garden_desc": "A fully private garden area immersed in nature.",
+        "wifi": "High-Speed WiFi",
+        "wifi_desc": "Uninterrupted internet connection.",
+        "bbq": "BBQ Area",
+        "bbq_desc": "Outdoor barbecue enjoyment in nature.",
+        "bed": "King Size Bed",
+        "bed_desc": "Comfortable sleep with premium mattress and linens.",
+        "kitchen": "Fully Equipped Kitchen",
+        "kitchen_desc": "Modern kitchen equipped with everything you need.",
+        "parking": "Private Parking",
+        "parking_desc": "Secure private parking area for your vehicle."
+    },
+    "gallery": {
+        "label": "Gallery",
+        "title": "Explore the Villa",
+        "all": "All",
+        "pool": "Garden & Pool",
+        "room": "Living Room & Kitchen",
+        "bed": "Bedrooms",
+        "bath": "Bathroom",
+        "enlarge": "ENLARGE"
+    },
+    "booking": {
+        "label": "Booking",
+        "title": "Select Your Dates",
+        "subtitle": "Create your booking request by selecting your check-in and check-out dates from the calendar.",
+        "summary": "Booking Summary",
+        "checkin": "Check-in",
+        "checkout": "Check-out",
+        "nights": "Nights",
+        "name_ph": "Full Name",
+        "phone_ph": "Phone Number",
+        "email_ph": "Email Address",
+        "message_ph": "Message (optional)",
+        "submit": "Send Booking Request",
+        "whatsapp": "Contact via WhatsApp",
+        "min_nights": "Minimum stay is 2 nights.",
+        "wa_intro": "Hello, I have a booking request for Feyza Villa.",
+        "wa_checkin": "Check-in:",
+        "wa_checkout": "Check-out:",
+        "wa_nights": "Nights:",
+        "wa_name": "Name:",
+        "wa_phone": "Phone:",
+        "wa_email": "Email:",
+        "wa_message": "Message:",
+        "unspecified": "Unspecified"
+    },
+    "location": {
+        "label": "Location",
+        "title": "Pazar / Rize",
+        "text": "Located in one of the most beautiful valleys of the Black Sea, in the heart of nature, our villa is an ideal location for those seeking both peace and adventure.",
+        "airport": "Nearest Airport",
+        "hours": "hours",
+        "nature": "Nature Activities",
+        "nature_desc": "Trekking, highland tours, rafting",
+        "culture": "Local Culture",
+        "culture_desc": "Tea gardens, local cuisine",
+        "airport_desc": "Rize-Artvin - 15 min | Trabzon - 1.5 hours"
+    },
+    "contact": {
+        "label": "Contact",
+        "title": "Get in Touch",
+        "phone": "Phone",
+        "email": "Email"
+    },
+    "reviews": {
+        "label": "Reviews",
+        "title": "Guest Reviews",
+        "source": "Reviews",
+        "items": {},
+        "item1": {
+            "date": "Google · 2 weeks ago",
+            "text": "A unique place for those seeking a peaceful holiday in nature! Being located by the stream in a quiet environment was truly relaxing. We enjoyed the nature view along with the pool in the garden. Waking up to the soothing sound of the stream and spending the day alone with nature was wonderful. The villa was very clean and comfortable, everything was thought of. We had a pleasant time as a family. Thanks."
+        },
+        "item2": {
+            "date": "Google · 1 month ago",
+            "text": "We arrived today, this place is truly wonderful. I absolutely recommend it to everyone. The owners are very friendly. We will stay here for 3 days and this will be the only place we come to every year. You can choose this place without thinking, you won't regret it. Thank you Feyza Villa family."
+        },
+        "item3": {
+            "date": "Google · 2 months ago",
+            "text": "A wonderful environment, the staff were very helpful. It was spotless and very comfortable, everything was considered. All we had to do was have fun. I will definitely come back when I visit Rize. I recommend it, definitely a peaceful place you should stay."
+        },
+        "item4": {
+            "date": "Google · 3 months ago",
+            "text": "The location is perfect, the villa is perfect, everything you need is more than available inside. The villa owners are smiling and warm-hearted people. There is a reliable environment. It is also a few minutes away from the center. You can stay without second thoughts."
+        },
+        "item5": {
+            "date": "Google · 4 months ago",
+            "text": "An amazing place in Rize in one word. I went with my family, its large garden was a great social activity for the children. I congratulate them, they did a good job."
+        },
+        "item6": {
+            "date": "Google · 5 months ago",
+            "text": "The location is perfect. In nature, a stream in front, a true natural wonder. The pool is a different kind of beautiful. A very suitable place for a family. I absolutely recommend it, everything is perfect."
+        },
+        "subtitle": "What our guests say",
+        "recommends": "Recommends"
+    },
+    "footer": {
+        "rights": "All rights reserved."
+    }
+}

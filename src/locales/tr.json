@@ -1,0 +1,133 @@
+{
+    "nav": {
+        "about": "Hakkımızda",
+        "amenities": "Olanaklar",
+        "gallery": "Galeri",
+        "reviews": "Yorumlar",
+        "contact": "İletişim",
+        "book": "Rezervasyon"
+    },
+    "hero": {
+        "title": "Feyza Villa",
+        "tagline": "Rize'nin Kalbinde Lüks Bir Kaçış",
+        "scroll": "AŞAĞI KAYDIRIN",
+        "explore": "KEŞFET"
+    },
+    "about": {
+        "label": "Feyza Villa",
+        "title": "Doğanın İçinde Benzersiz Bir Deneyim",
+        "text": "Karadeniz'in eşsiz doğasında, lüks ve konforun buluştuğu Feyza Villa'ya hoş geldiniz. Sevdiklerinizle unutulmaz anılar biriktireceğiniz, size özel ısıtmalı havuzu ve muhteşem manzarasıyla dört mevsim hizmetinizdeyiz.",
+        "guests": "Maksimum 4 Misafir",
+        "bedrooms": "2 Yatak Odası",
+        "bathrooms": "1 Banyo",
+        "living": "1 Salon & Mutfak"
+    },
+    "amenities": {
+        "label": "Olanaklar",
+        "title": "Size Sunduklarımız",
+        "pool": "Isıtmalı Havuz",
+        "pool_desc": "Yılın 365 günü kullanıma açık özel ısıtmalı havuz.",
+        "view": "Doğa Manzarası",
+        "view_desc": "Karadeniz'in eşsiz yeşil vadilerine panoramik bakış.",
+        "garden": "Özel Bahçe",
+        "garden_desc": "Tamamen size özel, doğayla iç içe bahçe alanı.",
+        "wifi": "Yüksek Hızlı WiFi",
+        "wifi_desc": "Kesintisiz internet bağlantısı.",
+        "bbq": "Barbekü Alanı",
+        "bbq_desc": "Doğanın içinde açık hava barbekü keyfi.",
+        "bed": "King Size Yatak",
+        "bed_desc": "Premium yatak ve nevresimlerle konforlu uyku.",
+        "kitchen": "Tam Donanımlı Mutfak",
+        "kitchen_desc": "İhtiyacınız olan her şeyle donatılmış modern mutfak.",
+        "parking": "Özel Otopark",
+        "parking_desc": "Güvenli özel araç park alanı."
+    },
+    "gallery": {
+        "label": "Galeri",
+        "title": "Villayı Keşfedin",
+        "all": "Tümü",
+        "pool": "Bahçe & Havuz",
+        "room": "Salon & Mutfak",
+        "bed": "Yatak Odası",
+        "bath": "Banyo",
+        "enlarge": "BÜYÜT"
+    },
+    "booking": {
+        "label": "Rezervasyon",
+        "title": "Tarihinizi Seçin",
+        "subtitle": "Giriş ve çıkış tarihlerinizi takvimden seçerek rezervasyon talebinizi oluşturun.",
+        "summary": "Rezervasyon Özeti",
+        "checkin": "Giriş",
+        "checkout": "Çıkış",
+        "nights": "Gece",
+        "name_ph": "Adınız Soyadınız",
+        "phone_ph": "Telefon Numaranız",
+        "email_ph": "E-posta Adresiniz",
+        "message_ph": "Mesajınız (isteğe bağlı)",
+        "submit": "Rezervasyon Talebi Gönder",
+        "whatsapp": "WhatsApp ile İletişim",
+        "min_nights": "Minimum konaklama süresi 2 gecedir.",
+        "wa_intro": "Merhaba, Feyza Villa için rezervasyon talebim var.",
+        "wa_checkin": "Giriş:",
+        "wa_checkout": "Çıkış:",
+        "wa_nights": "Gece:",
+        "wa_name": "İsim:",
+        "wa_phone": "Telefon:",
+        "wa_email": "E-posta:",
+        "wa_message": "Mesaj:",
+        "unspecified": "Belirtilmedi"
+    },
+    "location": {
+        "label": "Konum",
+        "title": "Pazar / Rize",
+        "text": "Karadeniz'in en güzel vadilerinden birinde, doğanın kalbinde yer alan villamız, hem huzur hem macera arayanlar için ideal bir konumdadır.",
+        "airport": "En Yakın Havalimanı",
+        "hours": "saat",
+        "nature": "Doğa Aktiviteleri",
+        "nature_desc": "Trekking, yayla turları, rafting",
+        "culture": "Yerel Kültür",
+        "culture_desc": "Çay bahçeleri, yöresel mutfak",
+        "airport_desc": "Rize-Artvin - 15 dk | Trabzon - 1.5 saat"
+    },
+    "contact": {
+        "label": "İletişim",
+        "title": "Bize Ulaşın",
+        "phone": "Telefon",
+        "email": "E-posta"
+    },
+    "reviews": {
+        "label": "Yorumlar",
+        "title": "Misafir Yorumları",
+        "source": "Yorumlar",
+        "items": {},
+        "item1": {
+            "date": "Google · 2 hafta önce",
+            "text": "Doğanın içinde, huzur dolu bir tatil arayanlar için eşsiz bir yer! Villanın dere kenarında, sessiz sakin bir ortamda konumlanmış olması gerçekten dinlendiriciydi. Bahçesindeki havuz ile beraber doğa manzarasının keyfini çıkardık. Sabahları derenin huzur verici sesiyle uyanmak ve gün boyu doğayla baş başa kalmak harikaydı. Villa oldukça temiz ve konforluydu, her şey düşünülmüş. Ailece keyifli vakit geçirdik. Teşekkürler."
+        },
+        "item2": {
+            "date": "Google · 1 ay önce",
+            "text": "Bugün geldik, burası gerçekten harika bir yer. Herkese kesinlikle tavsiye ediyorum. Sahipleri çok cana yakın insanlar 3 gün burada kalacağız ve her sene geleceğimiz tek yer burası olacak. Hiç düşünmeden burayı seçebilirsiniz pişman olmayacaksınız. Teşekkürler Feyza Villa ailesi."
+        },
+        "item3": {
+            "date": "Google · 2 ay önce",
+            "text": "Harika bir ortam çalışanları çok yardımcı oldular. Tertemiz ve çok rahattı her şey düşünülmüştü. Bize sadece eğlenmesi kaldı. Rize'ye geldiğimde mutlaka tekrar geleceğim. Tavsiye ediyorum, kesinlikle konaklamanız gereken huzur dolu bir yer."
+        },
+        "item4": {
+            "date": "Google · 3 ay önce",
+            "text": "Konumu mükemmel, villa mükemmel, içinde ihtiyacınız olan her şey fazlasıyla mevcut. Villa sahipleri güler yüzlü sıcakkanlı insanlar. Güvenilir bir ortam var. Merkeze de birkaç dakika uzaklıkta. Düşünmeden konaklayabilirsiniz."
+        },
+        "item5": {
+            "date": "Google · 4 ay önce",
+            "text": "Rize'de tek kelime ile müthiş bir yer. Ailem ile gittim, geniş bahçesi çocuklar için müthiş bir sosyal aktivite oldu. Tebrik ediyorum, güzel iş çıkardılar."
+        },
+        "item6": {
+            "date": "Google · 5 ay önce",
+            "text": "Konumu mükemmel. Doğa içinde, önünde dere, tam bir doğa harikası. Havuz ayrı bir güzel. Aile için çok uygun bir yer. Kesinlikle tavsiye ederim, her şey mükemmel."
+        },
+        "subtitle": "Misafirlerimiz ne diyor?",
+        "recommends": "Tavsiye Ediyor"
+    },
+    "footer": {
+        "rights": "Tüm hakları saklıdır."
+    }
+}
