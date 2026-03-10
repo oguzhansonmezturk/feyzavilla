@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-inner">
           <div className="footer-brand">
-            <img src="/images/feyzavillalogo.jpg" alt="Feyza Villa Logo" className="footer-logo-img" />
+            <img src="./images/feyzavillalogo.jpg" alt="Feyza Villa Logo" className="footer-logo-img" />
             <h2 className="footer-logo-text">Feyza Villa</h2>
           </div>
 

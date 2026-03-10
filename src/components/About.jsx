@@ -9,11 +9,11 @@ const About = () => {
   const sectionRef = useRef(null);
 
   const images = [
-    '/images/discekim1.jpg',
-    '/images/iccekim10.png',
-    '/images/iccekim11.png',
-    '/images/discekim8.png',
-    '/images/iccekim4.jpg'
+    './images/discekim1.jpg',
+    './images/iccekim10.png',
+    './images/iccekim11.png',
+    './images/discekim8.png',
+    './images/iccekim4.jpg'
   ];
 
   useEffect(() => {

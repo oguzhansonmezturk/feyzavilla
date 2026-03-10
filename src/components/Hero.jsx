@@ -8,7 +8,7 @@ const Hero = () => {
     <>
       <section className="hero" id="hero">
         <div className="hero-bg">
-          <img src="/images/discekim1.jpg" alt="Feyza Villa Escape" />
+          <img src="./images/discekim1.jpg" alt="Feyza Villa Escape" />
         </div>
         <div className="hero-overlay"></div>
 

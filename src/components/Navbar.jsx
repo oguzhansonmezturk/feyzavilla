@@ -47,7 +47,7 @@ const Navbar = () => {
       <nav className={`nav ${scrolled ? 'scrolled' : ''}`}>
         <div className="nav-inner">
           <a href="#hero" className="nav-logo" onClick={() => window.scrollTo(0, 0)}>
-            <img src="/images/feyzavillalogo.jpg" alt="Feyza Villa Logo" className="nav-logo-img" />
+            <img src="./images/feyzavillalogo.jpg" alt="Feyza Villa Logo" className="nav-logo-img" />
             <h2 className="logo-text">Feyza Villa</h2>
           </a>
           <div className="nav-links">

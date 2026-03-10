@@ -11,31 +11,31 @@ const Gallery = () => {
   // Group photos exactly as in reference
   const galleries = {
     'section-pool': [
-      '/images/discekim1.jpg',
-      '/images/discekim2.jpg',
-      '/images/discekim3.jpg',
-      '/images/discekim4.jpg',
-      '/images/discekim5.jpg',
-      '/images/discekim6.jpg',
-      '/images/discekim7.png',
-      '/images/discekim8.png',
-      '/images/discekim9.png'
+      './images/discekim1.jpg',
+      './images/discekim2.jpg',
+      './images/discekim3.jpg',
+      './images/discekim4.jpg',
+      './images/discekim5.jpg',
+      './images/discekim6.jpg',
+      './images/discekim7.png',
+      './images/discekim8.png',
+      './images/discekim9.png'
     ],
     'section-living': [
-      '/images/iccekim1.jpg',
-      '/images/iccekim3.jpg',
-      '/images/iccekim5.jpg',
-      '/images/iccekim8.jpg',
-      '/images/iccekim11.png'
+      './images/iccekim1.jpg',
+      './images/iccekim3.jpg',
+      './images/iccekim5.jpg',
+      './images/iccekim8.jpg',
+      './images/iccekim11.png'
     ],
     'section-bedroom': [
-      '/images/iccekim2.jpg',
-      '/images/iccekim4.jpg',
-      '/images/iccekim9.jpg',
-      '/images/iccekim10.png'
+      './images/iccekim2.jpg',
+      './images/iccekim4.jpg',
+      './images/iccekim9.jpg',
+      './images/iccekim10.png'
     ],
     'section-bathroom': [
-      '/images/iccekim6.jpg'
+      './images/iccekim6.jpg'
     ]
   };
 
