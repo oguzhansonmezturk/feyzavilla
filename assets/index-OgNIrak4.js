@@ -1570,6 +1570,18 @@ ${o("booking.wa_message","Mesaj:")} ${me}`;const B=`https://wa.me/905300704053?t
           width: 14px;
           height: 14px;
         }
+
+        @media (max-width: 600px) {
+          .review-card {
+            padding: 24px;
+          }
+          
+          .review-author-footer {
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 16px;
+          }
+        }
       `})]})},py=()=>{const{t:o}=Dt();return m.jsxs("footer",{className:"footer",children:[m.jsx("div",{className:"container",children:m.jsxs("div",{className:"footer-inner",children:[m.jsxs("div",{className:"footer-brand",children:[m.jsx("img",{src:"./images/feyzavillalogo.jpg",alt:"Feyza Villa Logo",className:"footer-logo-img"}),m.jsx("h2",{className:"footer-logo-text",children:"Feyza Villa"})]}),m.jsxs("div",{className:"footer-info-grid",children:[m.jsxs("div",{className:"footer-info-col",children:[m.jsx("h4",{children:o("contact.label","İletişim")}),m.jsxs("ul",{children:[m.jsxs("li",{children:[m.jsx(ay,{size:16}),m.jsx("span",{children:"Dere Mevki, Pazar, Dernek Köyü Yolu, 53300 Sahilköy/Pazar/Rize"})]}),m.jsxs("li",{children:[m.jsx(ny,{size:16}),m.jsx("span",{children:"0543 883 16 26"})]})]})]}),m.jsxs("div",{className:"footer-info-col",children:[m.jsx("h4",{children:"Feyza Villa"}),m.jsxs("div",{className:"footer-links-col",children:[m.jsx("a",{href:"#about",children:o("nav.about","Hakkımızda")}),m.jsx("a",{href:"#amenities",children:o("amenities.label","Olanaklar")}),m.jsx("a",{href:"#gallery",children:o("nav.gallery","Galeri")}),m.jsx("a",{href:"#location",children:o("location.label","Konum")}),m.jsx("a",{href:"#reviews",children:o("reviews.label","Yorumlar")}),m.jsx("a",{href:"#contact",children:o("nav.contact","İletişim")})]})]})]}),m.jsxs("p",{className:"footer-copy",children:["© ",new Date().getFullYear()," Feyza Villa. ",m.jsx("span",{children:o("footer.rights","Tüm hakları saklıdır.")})]})]})}),m.jsx("style",{jsx:!0,children:`
         /* --- Footer --- */
         .footer {
