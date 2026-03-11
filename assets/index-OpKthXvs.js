@@ -254,8 +254,12 @@ Error generating stack: `+l.message+`
           background: rgba(27, 30, 25, 0.97);
           backdrop-filter: blur(30px);
           display: flex;
+          flex-direction: column;
           align-items: center;
-          justify-content: center;
+          justify-content: flex-start;
+          padding-top: 110px;
+          padding-bottom: 40px;
+          overflow-y: auto;
           opacity: 0;
           visibility: hidden;
           transition: opacity 0.4s, visibility 0.4s;
@@ -270,12 +274,13 @@ Error generating stack: `+l.message+`
           text-align: center;
           display: flex;
           flex-direction: column;
-          gap: 32px;
+          gap: 24px;
+          width: 100%;
         }
 
         .mobile-menu-inner > a {
           font-family: var(--font-display);
-          font-size: 2rem;
+          font-size: 1.75rem;
           font-weight: 300;
           color: var(--text-on-dark);
           opacity: 0;
